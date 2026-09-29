@@ -1,0 +1,6 @@
+{
+  "name": "NUDGE",
+  "description": "Keep Moving forward",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
